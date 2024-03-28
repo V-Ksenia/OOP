@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "X1omLeCjBbw69yVN1X5O5WXjT8qv+pVsQ21z04dxTCcXd++UaSSLv2ZyLDNb0lw6pHvh7UT19T6AgT45Wxhb3A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\VAG\\Desktop\\uni\\oop\\ATMApplication\\ATMApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VAG\\.nuget\\packages\\consoletables\\2.6.1\\consoletables.2.6.1.nupkg.sha512",
+    "C:\\Users\\VAG\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\VAG\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\VAG\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
